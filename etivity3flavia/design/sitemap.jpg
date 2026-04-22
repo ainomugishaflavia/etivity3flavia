@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="pLqI74hCRuf6E64u3rpJ">
+    <mxGraphModel dx="774" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="80" width="720" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-11" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;spacingLeft=20;" value="My Portfolio" vertex="1">
+          <mxGeometry height="80" width="200" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;spacingRight=20;" value="Home | About | Gallery | Data | Contact" vertex="1">
+          <mxGeometry height="80" width="400" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="300" width="720" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-14" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1;" value="Welcome Message" vertex="1">
+          <mxGeometry height="100" width="360" x="60" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=middle;" value="Profile Image" vertex="1">
+          <mxGeometry height="200" width="200" x="480" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="200" width="720" x="20" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-17" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Short information about me" vertex="1">
+          <mxGeometry height="100" width="600" x="80" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="60" width="720" x="20" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="KBecdfEKq2Z0wS0dTlmV-19" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Copyright 2026" vertex="1">
+          <mxGeometry height="60" width="720" x="20" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
